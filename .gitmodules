@@ -1,3 +1,6 @@
 [submodule "go-with-example"]
 	path = go-with-example
 	url = https://github.com/techlandspace/go-with-example.git
+[submodule "python-with-example"]
+	path = python-with-example
+	url = https://github.com/techlandspace/python-with-example
